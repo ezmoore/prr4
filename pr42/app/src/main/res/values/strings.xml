@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text2">Напишите, какое у вас настроение (хорошее, плохое, нейтральное)</string>
+    <string name="text3">Введите ваше имя</string>
+    <string name="name1">Name</string>
+    <string name="nastr">хорошее</string>
+    <string name="good">good</string>
+    <string name="good_bad_neutral">Напишите, какое у вас настроение (good, bad, neutral)</string>
+</resources>
